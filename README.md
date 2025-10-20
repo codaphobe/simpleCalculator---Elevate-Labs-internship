@@ -9,5 +9,5 @@
 - Division handles Exception.
 
 > Usage : 
-> Run the main class and choose you options to perform.
+> Run the main class and choose you options to perform calculations.
  
